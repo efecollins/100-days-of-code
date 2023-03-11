@@ -1,39 +1,15 @@
-<!-- # 100 Days Of Code - Log
-
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
- -->
- 
- ### Day 1: March 11, 2023
+ ### Day 1: March 10, 2023
 
 **Today's Progress**: Completed the Registration Form project in freeCodeCamp
 
 **Thoughts:** I learnt about rem, min-height and vw. I saw a new persepective to Responsive Web Design.
 
-**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.org/efosacollins)
+**Link to work:** [Registration Form](https://twitter.com/EfeCollins7/status/1634411088463773697?s=20)
+
+### Day 2: March 11, 2023
+
+**Today's Progress**: Built a Rothko Painting to learn the CSS Box Model
+
+**Thoughts:** I learnt about the filter property in CSS and the border-radius property.
+
+**Link to work:** [Rothko Painting](https://twitter.com/EfeCollins7/status/1634590525587169286?s=20)
